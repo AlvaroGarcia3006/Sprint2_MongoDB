@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "63c524d018a86768fd486a0e"
+  },
+  "nombre": "Abelardo",
+  "primer_apellido": "Fernandez",
+  "segundo_apellido": "Fernandez",
+  "direccion": {
+    "calle": "Mareo",
+    "numero": "1905",
+    "piso": "1",
+    "puerta": "1",
+    "codigo_postal": "33211"
+  },
+  "telefono": "985390659",
+  "id_localidad": "63c52bb218a86768fd486a2d",
+  "id_provincia": "63c52b5718a86768fd486a28"
+}]

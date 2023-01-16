@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63c535d318a86768fd486a5b"
+  },
+  "nombre": "4 quesos",
+  "descripcion": "mozarella, gorgonzola, fontina, parmesano ",
+  "imagen": "",
+  "precio": 16.9,
+  "tipo": "pizza"
+},{
+  "_id": {
+    "$oid": "63c53bed18a86768fd486a82"
+  },
+  "descripcion": "Refresco",
+  "imagen": "",
+  "nombre": "Pepsi Max",
+  "precio": 2.2,
+  "tipo": "Bebida"
+}]

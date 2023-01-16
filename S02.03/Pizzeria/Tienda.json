@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "63c52e4318a86768fd486a36"
+  },
+  "direccion": {
+    "calle": "Sporting",
+    "numero": "288",
+    "id_localidad": "63c52bb218a86768fd486a2d",
+    "id_provincia": "63c52b5718a86768fd486a28"
+  },
+  "codigo_postal": "33210"
+}]

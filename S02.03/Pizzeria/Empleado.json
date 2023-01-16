@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63c525ca18a86768fd486a14"
+  },
+  "nombre": "Marcelino",
+  "primer_apellido": "Rodriguez",
+  "nif": "536996854M",
+  "telefono": "985368988",
+  "puesto": "reparto",
+  "id_tienda": "63c52e4318a86768fd486a36"
+},{
+  "_id": {
+    "$oid": "63c53c9a18a86768fd486a8c"
+  },
+  "nombre": "Enrique",
+  "id_tienda": "63c52e4318a86768fd486a36",
+  "nif": "59863258J",
+  "primer_apellido": "Castro",
+  "puesto": "cocina",
+  "teledono": "9854789632"
+}]

@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "63c539b618a86768fd486a6d"
+  },
+  "nombre": "pizza de la semana",
+  "id_producto": "63c535d318a86768fd486a5b"
+}]
