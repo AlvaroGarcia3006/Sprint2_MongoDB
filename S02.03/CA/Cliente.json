@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63c51b0218a86768fd4869e8"
+  },
+  "nombre": "Abelardo",
+  "direccion": {
+    "calle": "Mareo",
+    "numero": "1905",
+    "piso": "1",
+    "puerta": "1",
+    "ciudad": "Gijón",
+    "codigo_postal": "33211",
+    "pais": "España"
+  },
+  "telefono": "985236856",
+  "correo_electronico": "abelardomtz@gmail.com",
+  "fecha_registro": {
+    "$date": {
+      "$numberLong": "678240000000"
+    }
+  },
+  "recomendado": "63c51b8f18a86768fd4869eb"
+}]

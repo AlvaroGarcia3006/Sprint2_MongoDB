@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63c5144a18a86768fd4869df"
+  },
+  "nombre": "Hawkers",
+  "direccion": {
+    "calle": "Picasso",
+    "numero": "23",
+    "ciudad": "Barcelona",
+    "codigo_postal": "08029",
+    "pais": "España"
+  },
+  "telefono": "936589798",
+  "fax": "938288288",
+  "nif": "B56598200"
+}]

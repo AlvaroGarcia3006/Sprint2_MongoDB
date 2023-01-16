@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "63c5160d18a86768fd4869e3"
+  },
+  "id_proveedor": "63c5144a18a86768fd4869df",
+  "marca": "Hawkers",
+  "graduacion": {
+    "cristal_izquierdo": "0",
+    "cristal_derecho": "0"
+  },
+  "tipo_montura": "Pasta",
+  "color_montura": "Gris",
+  "color_cristales": {
+    "cristal_izquierdo": "Negro",
+    "cristal_derecho": "Negro"
+  },
+  "precio": "65"
+}]
