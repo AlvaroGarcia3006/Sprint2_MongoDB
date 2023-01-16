@@ -20,5 +20,7 @@
     "$date": {
       "$numberLong": "1609335600000"
     }
-  }
+  },
+  "id_tienda": "63c52e4318a86768fd486a36",
+  "id_cliente": "63c524d018a86768fd486a0e"
 }]
