@@ -9,12 +9,6 @@
   },
   "tipo": "domicilio",
   "precio": 21.3,
-  "producto": {
-    "id_producto1": "63c535d318a86768fd486a5b",
-    "cantidad1": 1,
-    "id_producto2": "63c53bed18a86768fd486a82",
-    "cantidad2": 2
-  },
   "id_repartidor": "63c525ca18a86768fd486a14",
   "fecha_de_entrega": {
     "$date": {
@@ -22,5 +16,15 @@
     }
   },
   "id_tienda": "63c52e4318a86768fd486a36",
-  "id_cliente": "63c524d018a86768fd486a0e"
+  "id_cliente": "63c524d018a86768fd486a0e",
+  "producto": [
+    {
+      "cantidad": 1,
+      "id_producto": "63c535d318a86768fd486a5b"
+    },
+    {
+      "cantidad": 2,
+      "id_producto": "63c53bed18a86768fd486a82"
+    }
+  ]
 }]
